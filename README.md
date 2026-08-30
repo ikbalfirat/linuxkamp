@@ -1,0 +1,2 @@
+# linuxkamp
+sayi_tahmini
